@@ -1,8 +1,7 @@
 # 👋 Hola, soy Juan David López Patiño
 
-Desarrollador Full Stack con enfoque en aplicaciones web, móviles, APIs e integración con servicios cloud. Trabajo con tecnologías como React, TypeScript, React Native, Expo, Node.js, NestJS, Java/Spring Boot y AWS.
-
-Actualmente desarrollo soluciones full stack para aplicaciones móviles y web, creando interfaces, APIs, lógica de negocio e integraciones cloud.
+Desarrollador Full Stack con experiencia en desarrollo de aplicaciones web y móviles, creación de APIs e integración de servicios AWS. He trabajado en proyectos empresariales y freelance, desarrollando soluciones desde la construcción del frontend y backend hasta la implementación de funcionalidades completas.
+Experiencia en aplicaciones móviles con geolocalización, captura de evidencia, seguimiento deportivo y desarrollo de productos digitales.
 
 ## 🚀 Tech Stack
 
